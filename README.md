@@ -4,7 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can create a virtual environment:
+
+### `python -m venv venv`
+
+Activate your virtual environment:
+
+### `venv\Scripts\active`
+
+With your virtual environment active, you can install project dependencies, you can run:
+
+### `npm install`
+
+Run the app:
 
 ### `npm start`
 
